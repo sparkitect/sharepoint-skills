@@ -10,10 +10,6 @@ Renames all files in a SharePoint document library — including files in subfol
 - Recursive processing across all subfolders
 - Graceful error handling — one failure does not stop the rest of the batch
 
-## Demo content
-
-Add any files to a document library - so no demo content required.
-
 ## Contribution
 
 | Property | Value |
