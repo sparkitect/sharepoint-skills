@@ -59,3 +59,5 @@ The second demo walks through how the skill was created:
 ## Disclaimer
 
 **THIS CODE IS PROVIDED _AS IS_ WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sharepoint-skills/skills/invoice-po-reconciliation" />

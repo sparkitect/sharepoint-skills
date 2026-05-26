@@ -43,3 +43,5 @@ Sample files for trying this skill end-to-end are in the [demo/](./demo/) subfol
 ## Disclaimer
 
 **THIS CODE IS PROVIDED _AS IS_ WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+<img src="https://m365-visitor-stats.azurewebsites.net/sharepoint-skills/skills/organize-library" />
